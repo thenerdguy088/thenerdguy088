@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @thenerdguy088
 - 👀 I’m interested in programming
-- 🌱 I’m currently in grade 12
-- 📫 Reddit: u/thenerdguy088
-- 📫 Instagram: @thenerdguy088
-- 📫 Discord: thenerdguy088
+- Reddit: u/thenerdguy088
+- Instagram:thenerdguy088 
+- Reddit:u/thenerdguy088 
+- Discord:thenerdguy088
+- e-mail id: amigo_pytest@outlook.com
